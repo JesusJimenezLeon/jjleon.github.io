@@ -2,7 +2,6 @@
 title: 'Instrucciones para montar página con GitHub Pages'
 date: 2026-02-14
 permalink: /posts/2026/02/instrucciones-github-pages/
-published: false
 tags:
   - blog
 ---
